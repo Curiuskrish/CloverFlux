@@ -1,6 +1,6 @@
-# eCloverFlux 🌿
+# CloverFlux 🌿
 
-**eCloverFlux** is a modern, responsive mental health web application designed to offer a safe, user-friendly space for emotional support and self-growth. It integrates wellness tools, journaling features, mood tracking, and motivational resources to help users prioritize their mental well-being.
+**CloverFlux** is a modern, responsive mental health web application designed to offer a safe, user-friendly space for emotional support and self-growth. It integrates wellness tools, journaling features, mood tracking, and motivational resources to help users prioritize their mental well-being.
 
 ---
 
